@@ -38,6 +38,20 @@
 
 
 
+## Typora
+
+
+
+Typora，是一个简洁、免费的 Markdown 编辑器，支持 Windows、macOS 和 Linux 系统。 、
+
+
+
+关于 Typora 这个软件本身，这里就不过多介绍，
+
+
+
+
+
 ## 下载 Git 
 
 打开
